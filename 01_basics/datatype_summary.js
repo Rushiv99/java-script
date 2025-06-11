@@ -33,3 +33,18 @@ const myFunction = function(){
 }
 
 console.log(typeof anotherId);
+
+
+
+console.log("+++++++++++++++++++++++++++++++++++++++++++++++++=")
+
+// stack(primitive)   
+//  stack mai apko direct reference nahi milega apko iski copy karke value milgi 
+// jisje aap original value main change nahi kar payege
+// 
+// 
+//    heap(non primitive)
+// apko yha original value ka reference milga that's why we have to able to change in 
+// original values
+
+
